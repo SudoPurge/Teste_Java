@@ -1,0 +1,13 @@
+com\example\taskmanager\controller\TaskController.class
+com\example\taskmanager\config\AwsConfig.class
+com\example\taskmanager\model\Task.class
+com\example\taskmanager\config\AwsProperties.class
+com\example\taskmanager\config\S3Config.class
+META-INF\spring-configuration-metadata.json
+com\example\taskmanager\config\SwaggerConfig.class
+com\example\taskmanager\config\MongoConfig.class
+com\example\taskmanager\service\TaskService.class
+com\example\taskmanager\service\LambdaService.class
+com\example\taskmanager\repository\TaskRepository.class
+com\example\taskmanager\service\S3Service.class
+com\example\taskmanager\TaskmanagerApplication.class

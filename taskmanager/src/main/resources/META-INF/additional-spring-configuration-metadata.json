@@ -1,0 +1,24 @@
+{
+  "properties": [
+    {
+      "name": "aws.access.key.id",
+      "type": "java.lang.String",
+      "description": "AWS Access Key ID"
+    },
+    {
+      "name": "aws.secret.access.key",
+      "type": "java.lang.String",
+      "description": "AWS Secret Access Key"
+    },
+    {
+      "name": "aws.region",
+      "type": "java.lang.String",
+      "description": "AWS Region"
+    },
+    {
+      "name": "aws.s3.bucket.name",
+      "type": "java.lang.String",
+      "description": "AWS S3 Bucket Name"
+    }
+  ]
+}

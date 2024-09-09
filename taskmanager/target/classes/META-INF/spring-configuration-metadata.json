@@ -1,0 +1,48 @@
+{
+  "groups": [
+    {
+      "name": "aws",
+      "type": "com.example.taskmanager.config.AwsProperties",
+      "sourceType": "com.example.taskmanager.config.AwsProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "aws.access-key-id",
+      "type": "java.lang.String",
+      "sourceType": "com.example.taskmanager.config.AwsProperties"
+    },
+    {
+      "name": "aws.access.key.id",
+      "type": "java.lang.String",
+      "description": "AWS Access Key ID"
+    },
+    {
+      "name": "aws.region",
+      "type": "java.lang.String",
+      "description": "AWS Region",
+      "sourceType": "com.example.taskmanager.config.AwsProperties"
+    },
+    {
+      "name": "aws.s3-bucket-name",
+      "type": "java.lang.String",
+      "sourceType": "com.example.taskmanager.config.AwsProperties"
+    },
+    {
+      "name": "aws.s3.bucket.name",
+      "type": "java.lang.String",
+      "description": "AWS S3 Bucket Name"
+    },
+    {
+      "name": "aws.secret-access-key",
+      "type": "java.lang.String",
+      "sourceType": "com.example.taskmanager.config.AwsProperties"
+    },
+    {
+      "name": "aws.secret.access.key",
+      "type": "java.lang.String",
+      "description": "AWS Secret Access Key"
+    }
+  ],
+  "hints": []
+}
